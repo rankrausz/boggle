@@ -4,6 +4,8 @@ This is a simple and fun boggle game with GUI, made with Python tkinter module. 
 
 To run the game, run boggle.py file
 
+![Animation](https://user-images.githubusercontent.com/103533203/165473528-eb5ebb49-9748-442a-80c8-724bd38ea62b.gif)
+
 * Words with 2 letters doesn't count. Try harder!
 
 Some added features:
