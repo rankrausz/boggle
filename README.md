@@ -4,8 +4,6 @@ This is a simple and fun boggle game with GUI, made with Python tkinter module. 
 
 To run the game, run boggle.py file
 
-![Animation_small](https://user-images.githubusercontent.com/103533203/165473938-275e5ee7-0e25-40f4-87ca-b0196431fd6f.gif)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/103533203/165473938-275e5ee7-0e25-40f4-87ca-b0196431fd6f.gif" alt="animated" />
 </p>
