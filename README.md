@@ -1,7 +1,7 @@
-#####         Boggle game README        #####
-#####  by Ran Krausz and Shai Wachtel   #####
+# Boggle Game
 
-This is a simple and fun boggle game, made with Python tkinter module. Enjoy!
+This is a simple and fun boggle game with GUI, made with Python tkinter module. Enjoy!
+
 To run the game, run boggle.py file
 
 * Words with 2 letters doesn't count. Try harder!
